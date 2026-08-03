@@ -177,8 +177,8 @@ C: {The Minish Era}
     The Attratus Sisters steal the Elements and claim regions: Amy makes Hyrule a Sea of Trees, Beth freezes Talus Cave, and Joelle makes Death Mountain erupt.
     Link awakens the Elements, upgrading the Four Sword's clones to colored copies with minds of their own.
     The awakened Elements enter defeated bosses, becoming Guardians: the Great Deku Tree, the Great Dodongo, and the Great Jabu Jabu.
-    Meg sticks with Vaati as he seeks new powers, and gives him her wind element upon her defeat.
-    Vaati gets the Dark Trident, which makes him even more terrible than usual.
+    Meg sticks with Vaati as he seeks new powers, and gives him her wind element upon her defeat. Thus he becomes the Wind Mage.
+    Vaati gets the Dark Trident, which causes him to act even more terrible than usual.
     Vaati turns people in monster Zoras, and curses the Wind Tribe to be Oocca. He seeks maidens, not to marry, but to seal away descendants of the sages.
     In the end, somehow Link and Ezlo's second apprentice enter Vaati's mindspace. There they find his original minish self, repentant of all the misery he's caused.
     Unable to free himself from the power of darkness, Vaati casts a spell of broken-mindedness on himself to sabotage evil's ability to use him.
@@ -208,15 +208,15 @@ E: {OoT Temporal Maelstrom}
     Ganondorf gets the Triforce of Power. Seven years do not pass though? Link is already old enough?
     Link and Sheik traverse Dampe's grave.
     Link and Saria defeat Veran in the Forest Temple.
-    Link and Darunia navigate the Fire Temple to deal with _
+    Link and Darunia navigate the Fire Temple to deal with 
     Sheik helps Ruto escape the Ice Cavern.
     Link and Ruto deal with Bellum in the Water Temple.
     Impa (or the Composer Brothers) teaches Link the Song of Storms to enter the Well.
     Link and Sheik save Impa from the Nightmares in the Shadow Temple.
-    Link and Nabooru clear each side of the Spirit Temple to defeat _
+    Link and Nabooru clear each side of the Spirit Temple to defeat Onox.
     Each section of Ganon's Castle requires a different pairing of sages.
     Also: Phantom Ganon in the Forest Section, Twinrova in the Spirit Section, Volvagia in the Fire Section, Morpha in the Water Section.
-    Link and Sheik (Zelda?) fight Ganondorf
+    Link and Sheik (Zelda?) fight Ganondorf.
     Ganondorf flees to the past, and Link and Zelda follow.
 <Minor Time Rewind>
 [Parts of New: "OoT Co-Op Finale / TN Hyrulean Civil War"]
@@ -288,13 +288,17 @@ E: {OoT Temporal Maelstrom}
 F: {The Age of the Great Flood}
 [New: "A Day Without Courage"]
     When OoT Link could no longer return to this timeline, the Triforce of Courage was sent to Zelda, who had it broken and its pieces hidden.
-    Hundreds of years later, after the forging of a new Master Sword powered by the Sages of Earth and Wind, Ganondorf broke free of the Realm of Evil.
-    People still believed the Hero of Time could appear anytime, any place, but were to be bitterly disappointed.
-    Fear of Ganondorf drove people mad. Some surrendered to Ganondorf, hoping in vain for mercy. Others embraced death itself prematurely.
-    The Gerudo people denied their old king. For that, he wiped them out.
-    Zelda gained a following of various knights and warriors, but none of them could fill the shoes of the missing hero.
-    In the end, Ganondorf's power was sealed by the Master Sword, but since the Sages of the Master Sword were killed at the same time, the seal wouldn't hold forever...
-    Those sent to survive the flood were those who hadn't surrendered to Ganondorf, yet survived the ordeal.
+    A new Master Sword was forged by the OoT Sages: one powered by the prayers of the new Earth and Wind Sages.
+    When the Guardians Sheik saved as eggs grew up into Valoo and Jabun, the Gorons rejected Valoo, and Jabun called the Zoras unworthy, turning them back into humans.
+    Hundreds of years later, Ganondorf breaks free of the Realm of Evil.
+    People still believe the Hero of Time could appear anytime, any place, but are to be bitterly disappointed.
+    Fear of Ganondorf drives people mad. Some surrender to Ganondorf, hoping in vain for mercy. Others embrace death itself prematurely.
+    Many Gorons, unprotected by Valoo, offer to serve Ganondorf. He kills them and turns them into poe slaves, their leader becoming Jalhalla.
+    Ganondorf corners the former zoras at the Forsaken Fortress, where he decides to drown them. However, Valoo leaps in and saves them, turning them into Rito.
+    The Gerudo people deny their old king. For that, he wipes them out. However, after Molgera does his work, the King of the Gerudo breaks down in regret.
+    Zelda gains a following of various knights and warriors, but none of them can fill the shoes of the missing hero.
+    In the end, Ganondorf's power is sealed by the Master Sword, but since the Sages of the Master Sword are killed at the same time, the seal couldn't hold forever...
+    Those sent to survive the flood are those who hadn't surrendered to Ganondorf, yet survived the ordeal.
 [Old: "Wind Waker"]
 [Old: "Phantom Hourglass"]
 [Old: "Spirit Tracks"]
@@ -319,7 +323,7 @@ G: {Travels of OoT Link & TP Link}
     Link defeats Phantom Mikau at Pinnacle Rock, saving Lulu who got too brave in facing it. He finds Phantom Darmani under his grave. Phantom Deku Boy stands by the Deku Princess, twisting her mind.
     There may be a thing about an alien structure on the Gorman Brother's property. The gorons may have been lax in dealing with things to their harm. Link may need to enter a new realm to find the silver fairies.
     In the end, Link enters the Gerudo outpost once more, finds a previously sealed door open, and descends to the bottom of the world. There he finds Ganondorf putting on a black and red Majora's Mask.
-    The mask soon reveals itself not as Majora, but a manifestation of Null. It gets defeated, Ganondorf returns to the Realm of Evil properly, the end.
+    The mask soon reveals itself not as Majora, but a manifestation of Null. It gets defeated, Ganondorf returns to the Realm of Evil properly, and credits roll.
     There is also a notion of playing as Zelda for a while instead of Link.
 [New: "Deku Butler's Journey"]
     The Deku Butler learns of Termina's Triforce. He faces Zubora in the Mountain for Power, Aveil in the Ocean for Courage, and Sakon in the Canyon for Wisdom.
