@@ -37,7 +37,7 @@ E: {OoT Temporal Maelstrom}
 [Old: "Four Swords"]
 [New: "Ocarina of Time Co-Op"]
 <Minor Time Rewind>
-[Parts of New: "OoT Co-Op Finale / TN Hyrulean Civil War"]
+[Parts of New: "Hyrulean Civil War"]
 [Old: "Ocarina of Time" - Young Link]
 [New: "Sheik and the Divine Eggs"]
 [New: "Sheik and the Wind Mage"]
@@ -60,18 +60,21 @@ G: {Travels of OoT Link & TP Link}
 [New: "Heart of the Void"]
 [Old: "Twilight Princess"]
 [New: "The Great Hyrule Fishing Competition"]
-[New: "Twilight Nightmare / Hyrulean Civil War"]
+[New: "Twilight Nightmare"]
 <End of Timeline G>
 
+H: {Unspecified Temporal Episode}
 [Old: "Hyrule Warriors"]
+<End of Episode H}
+
 <Major Time Rewind>
-H: {The Beginning: Null Sealed}
+I: {The Beginning: Null Sealed}
 [Old: "Hyrule Warriors: Age of Imprisonment"]
 [Old: "Hyrule Warriors: Age of Calamity"]
 [Old: "Breath of the Wild"]
 [Old: "Tears of the Kingdom"]
 [Old: "Echoes of Wisdom"]
-<End of Timeline H>
+<End of Timeline I>
 
 <End of List>
 
@@ -217,8 +220,9 @@ E: {OoT Temporal Maelstrom}
     Link and Sheik (Zelda?) fight Ganondorf.
     Ganondorf flees to the past, and Link and Zelda follow.
 <Minor Time Rewind>
-[Parts of New: "OoT Co-Op Finale / TN Hyrulean Civil War"]
+[Parts of New: "Hyrulean Civil War"]
     Ganondorf meets up with himself during the Hyrulean Civil War and changes history.
+    Bongo Bongo and the Sheikah clash.
     One Ganondorf gets defeated. The other lives on to be the Ganondorf we know in the original "Ocarina of Time."
 [Old: "Ocarina of Time" - Young Link]
 [New: "Sheik and the Divine Eggs"]
@@ -343,7 +347,7 @@ G: {Travels of OoT Link & TP Link}
 [New: "The Great Hyrule Fishing Competition"]
     With much of Hyrule flooding due to excessive rains, a fishing competition is declared to ease tensions and brighten moods.
     It may turn out the flooding is the work of a wizard in Zelda's court, one whose true form is the Thunderbird.
-[New: "Twilight Nightmare / Hyrulean Civil War"]
+[New: "Twilight Nightmare"]
     Link gets ambushed in the woods by a mysterious entity. He awakens back home... or is he back home?
     From strange to terrifying to bizarre, he passes from dream to reality to tangible nightmare, unsure which is which.
     Eventually he learns his captor is the Sage of Water Ganondorf killed, fallen to darkness, with designs on corrupting Link in turn.
@@ -358,7 +362,10 @@ G: {Travels of OoT Link & TP Link}
     ...only for it to be unsalvageable in the end. Impa and Link seal it in the well, and Link returns to his own time.
 <End of Timeline G>
 
+H: {Unspecified Temporal Episode}
 [Old: "Hyrule Warriors"]
+<End of Episode H}
+
 <Major Time Rewind>
 H: {The Beginning: Null Sealed}
 [Old: "Hyrule Warriors: Age of Imprisonment"]
