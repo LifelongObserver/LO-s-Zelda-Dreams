@@ -58,8 +58,6 @@ G: {Travels of OoT Link & TP Link}
 [New: robotsonn's "Cloak of Shadows"]
 [New: "Deku Butler's Journey"]
 [New: "Heart of the Void"]
-[New: "Memory's Horizon"]
-[New: "Hero's Shade"]
 [Old: "Twilight Princess"]
 [New: "The Great Hyrule Fishing Competition"]
 [New: "Twilight Nightmare / Hyrulean Civil War"]
@@ -341,10 +339,6 @@ G: {Travels of OoT Link & TP Link}
     Now empowered by Hylia, Link rips thru the poe sisters' stronghold and enters the Land of the Abyss, where the ancient sky entity lays protected by a magic barrier.
     After beating the Gerudo leader who styles herself as Queen of the Void, the barrier is dispelled. Link and Hylia drop to the lowest depths, and face the Heart oof the Void.
     Upon defeating it, they return to the surface, Link a renewed man.
-[New: "Memory's Horizon"]
-    Link explores a rusty factory in the middle of a quicksand sea, travels to the past when it was in an ocean and still functioning, and defeats a harder version of Morpha at the center of it.
-[New: "Hero's Shade"]
-    Stuff happens... Dunno.
 [Old: "Twilight Princess"]
 [New: "The Great Hyrule Fishing Competition"]
     With much of Hyrule flooding due to excessive rains, a fishing competition is declared to ease tensions and brighten moods.
