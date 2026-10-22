@@ -65,7 +65,7 @@ G: {Travels of OoT Link & TP Link}
 
 H: {Unspecified Temporal Episode}
 [Old: "Hyrule Warriors"]
-<End of Episode H}
+<End of Episode H>
 
 <Major Time Rewind>
 I: {The Beginning: Null Sealed}
@@ -101,13 +101,18 @@ A: {The Beginning: Null Deified}
     The other Interlopers get sealed away when the Three Goddesses briefly return.
 [New: "Hylia's Story: Clash of the Chosen Heroes"]
     The Triforce is split up to keep it from evil hands: Wisdom goes to Hylia, Power to Ghera, and Courage is hidden.
-    Hylia meets Link, a slave forced to fight for his wicked captors. She decides to keep him.
-    With evil cropping up everywhere with new powers, Hylia gives Link the Triforce of Wisdom and other powers for his own.
-    Jealous of Hylia in an increasing number of ways, Ghera obtains her own "chosen hero" in the broken slave child Majora.
+    Hylia meets Link, a slave forced to fight for his wicked captors to protect his fellow slaves, named Link for a link of a chain.
+    After defeating his captors, she decides to keep him, and gifts him a red scarf. He remains reticent, though.
+    With evil cropping up everywhere with new powers, Hylia gives Link the Triforce of Wisdom and other powers for his own, as only mortals can use the Triforce.
+    Jealous of Hylia in an increasing number of ways, Ghera obtains her own "chosen hero" in the broken slave child Majora. Ghera's parenting style worsens Majora's mental condition...
     Link becomes known as a "fierce deity of justice," while Majora uses his Triforce of Power to hex people and create monsters.
+    Some of Majora's monsters are giant: a like like to the south, a sea monster to the west, a chuchu in the center, a bombchu to the north that destroys Lone Peak City...
+    The Clock Tower of Clock Town is made as a giant beamos to ward of such monsters, and it with the surrounding town wall works... for a time.
     The war between the two escalate with each getting more and more powerful, until even their masters are powerless against them.
-    In the end, the world is obliterated, with only the two of them remaining. For three days, Link plays a drum while Majora dances, until they both die.
-    Farore's secretive apprentice, the Happy Mask Man, <rewinds time> and sets things on a better path.
+    In the end, the world is obliterated, with only the two of them remaining. With nothing left to do, Link finally talks. Majora replies, and soon sees the futility of his path.
+    Alas, it is too late... So for three days and nights, Link plays a drum while Majora dances, until they both die.
+    Then, Farore's secretive apprentice, the Happy Mask Man, appears. Finding the two fallen champions, he uses the Song of Healing to encapsulate their troubles...
+   ... then he <rewinds time> and sets things on a better path, himself adopting Majora in the new timeline. No one is the wiser.
 [New: "Hylia's Story: Goddess of Time / End of a Goddess"]
     Ghera, still boiling with jealousy, stirs up trouble that Hylia has to deal with.
     Ghera sends her servant Cia, disguised as Lana, to infiltrate Hylia's circle and sabotage her.
@@ -360,16 +365,16 @@ G: {Travels of OoT Link & TP Link}
     In the end, he uses his wish to restore his son.
 [New: "Heart of the Void"]
     Link, burdened with feelings heavy and dark, seeks some sort of challenge to fill his empty time. He finds it when he gets kidnapped by monsters in the forest.
-    Awakening in a jail cell, he escapes to find himself in a great underground cathedral. There, monsters and Gerdo seem to be studying the ruins and what is found there...
+    Awakening in a jail cell, he escapes to find himself in a great underground cathedral. There, monsters and Gerudo seem to be studying the ruins and what is found there...
     One scientist betrayed the others, opting to guard the corpse of Hylia from further experiments, though he himself became a source of contamination.
     The poe sisters show up once again as followers of an ancient cult worshipping an entity that fell from the sky long ago.
-    The banished Gerudo leader from Cloak of Shadows offers Link new power and purpose. He refuses... for now.
+    A banished Gerudo rebel offers Link new power and purpose. He refuses... for now.
     Link travels thru a dark cave system where he is harassed by the darkness inside given tangible form.
-    Returning to the Gerudo, Link accepts her offer. He fights a reflection of his light, then Hylia herself resists him. If he beats her, he gets the bad ending.
+    Returning to the Gerudo rebel, Link accepts her offer. He fights a reflection of his light, then Hylia herself resists him. If he beats her, he gets the bad ending.
     If he allows himself to be defeated, even fighting off his own darkness, then he must travel thru the dark caves again, but this time his darkness is too severe...
     Trapped in the depths with no escape, his only choice is to pray. Hylia appears to him and heals his soul, then helps him defeat his otherwise unbeatable darkness.
-    Now empowered by Hylia, Link rips thru the poe sisters' stronghold and enters the Land of the Abyss, where the ancient sky entity lays protected by a magic barrier.
-    After beating the Gerudo leader who styles herself as Queen of the Void, the barrier is dispelled. Link and Hylia drop to the lowest depths, and face the Heart oof the Void.
+    Now empowered by Hylia, Link rips thru the poe sisters' stronghold and enters the Land of the Abyss, where the poe sisters' ancient sky entity lays protected by a magic barrier.
+    After beating the Gerudo styling herself as Queen of the Void, the barrier is dispelled. Link and Hylia drop to the lowest depths, and face the Heart of the Void itself.
     Upon defeating it, they return to the surface, Link a renewed man.
 [Old: "Twilight Princess"]
 [New: "The Great Hyrule Fishing Competition"]
@@ -392,7 +397,7 @@ G: {Travels of OoT Link & TP Link}
 
 H: {Unspecified Temporal Episode}
 [Old: "Hyrule Warriors"]
-<End of Episode H}
+<End of Episode H>
 
 <Major Time Rewind>
 I: {The Beginning: Null Sealed}
