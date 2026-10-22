@@ -39,7 +39,7 @@ E: {OoT Temporal Maelstrom}
 <Minor Time Rewind>
 [Parts of New: "Hyrulean Civil War"]
 [Old: "Ocarina of Time" - Young Link]
-[New: "Sheik and the Divine Eggs"]
+[New: "Sheik and the Eggs of the Guardians"]
 [New: "Sheik and the Wind Mage"]
 [New: "Sheik and the Shadow Beast"]
 [New: "Sheik and the King of Evil"]
@@ -85,12 +85,13 @@ WARNING: SPOILERS! (not that these will ever be made...)
 
 A: {The Beginning: Null Deified}
 [New: "Forgotten Myth: Age of Evolution"]
-    Din, Nayru, and Null create a world of monsters who know nothing but war.
-    A nameless monster inspires Din and Nayru to change things.
-    Demise, who perfers the old way of things, rebels and gets banished to the Underworld.
-    Null gets bored and leaves. Farore appears soon after.
+    Din, Nayru, and Null create a world of monsters who know nothing but an endless deadly competition to prove themselves the greatest.
+    Demise is a favorite of Null's and seems to be king of the competition. Tag-team Ghera and Hylia are close behind.
+    A nameless creature's sacrifice inspires Din and Nayru to change things.
+    Demise, who prefers the old way of things, rebels and gets banished to the Underworld.
+    Null gets angry/bored and leaves. Farore, seeing the changed way of things, reveals herself soon after and shows that she has saved the essence of past killed specimens as souls.
 [New: "Hylia's Story: The World Begins / Interloper War"]
-    The Three Goddesses create a gentler world. They take on three apprentices and put them in charge.
+    The new Three Goddesses create a gentler world. They take on three apprentices and put them in charge.
     Null returns to destroy the new world, requiring the Three Goddesses to constantly drive her away; the Triforce is left behind.
     Hylia, apprentice of Nayru, learns all Essences of Time before eating the Maku Seed, greatly enhancing her power.
     Ghera, apprentice of Din, eats her Maku Seed before finding all Essences of Nature, stunting her power.
@@ -110,32 +111,35 @@ A: {The Beginning: Null Deified}
 [New: "Hylia's Story: Goddess of Time / End of a Goddess"]
     Ghera, still boiling with jealousy, stirs up trouble that Hylia has to deal with.
     Ghera sends her servant Cia, disguised as Lana, to infiltrate Hylia's circle and sabotage her.
-    Cia decides to reveal all to Hylia, and becomes her sevant instead. Ghera still has/ replaces Cia with Twinrova.
-    After being betrayed by all but one, Ghera curses Gerudo men to never be born but one once every hundred years.
+    Cia decides to reveal all to Hylia, and becomes her sevant instead. Ghera still has, or replaces Cia with, Twinrova.
+    After being betrayed by all but one, Ghera curses all Gerudo men to never be born but one once every hundred years.
     Null sends a snake to guide Ghera down evil paths. Ghera names the snake Ghirahim.
     Ghera grows tremendously in power, and Link never became strong enough in this timeline to stop her.
     Four Skull Kids become four Giants to defeat Ghera; the fifth Skull Kid refuses the permanent transformation.
     The defeated Ghera gets betrayed by Ghirahim, becoming sealed in a crystal for all time.
 [New: "Hylia's Story: Battle Against Demise"]
     Ghirahim releases Demise and the souls of the rebellious dead from the Underworld to take control of the world.
-    Entire landmarks are destroyed in battle. The Four Giants are killed. Clock Town is destroyed.
+    Entire landmarks are destroyed in battle. The Four Giants are killed. Clock Town is destroyed. Majora's four masked fiends join Demise's army.
     Four loyal servants of good are chosen to become immortal dragons, imbued with elemental powers: Faron, Eldin, Lanayru, and Levias.
     Six sages help create the Goddess Sword. Ghirahim enters Demise's sword, empowering it.
     Link gets stabbed thru the chest, pinned to the ground by Demise. Ghirahim, possessing Link's corpse, tricks Hylia and mortally wounds her.
     A new plan is made. The Sheikah create Fi to guide the future reincarnated Chosen Hero.
-    Skyloft, made from parts of Faron Woods, is sent into the sky with the Triforce and some human survivors.
+    Hylia sends Skyloft, made from parts of Faron Woods, into the sky with the Triforce and some human survivors.
     Hylia imprisons Demise with the last of her power, and dies.
 [Old: "Skyward Sword"]
 <Timeline Split: B, C>
 
 B: {The Kingdom's First Legends}
 [New: "Prince of Hyrule"]
+    After the King of Hyrule's death, his son inherits only the Triforce of Power when he was expecting the entire artifact.
     The Prince seeks the missing Triforce parts, but can't find them.
+    He searches the King's Tomb, Faron Woods, the buried Sky Keep, Lanayru Desert, the Palace of Winds, and Eldin Volcano, all to no avail.
     Koume and Kotake point the Magician and the Prince to the Princess for information, and give the Magician a sleeping spell.
     The Magician casts the spell of eternal sleep on the Princess before dying himself.
     The Prince seeks revenge against Koume and Kotake, but they convince him to obtain a great power instead.
-    The Sisters use the power to create monsters, lay seige against the Palace of Winds, and claim the Triforce of Wisdom.
-    After his lowest point, the Prince gets a magic sword and defeats the Sisters and their monsters.
+    He invades the Temple of Souls for a forbidden book, then the Desert Colossus, the Inverted Ruin, and the Tower of Hera to obtain three special flames.
+    The Sisters use the book and flames to create monsters, lay seige against the Palace of Winds, and claim the Triforce of Wisdom.
+    After his lowest point, the Prince gets a magic sword and defeats the monsters and the sisters (first at the Great Palace Barrier, then within Spectacle Rock).
     The Prince tries to force the Goddess of Time to undo his past mistakes, but is chastised for it.
     Ghirahim tries to jump thru time for his own purposes, but is defeated.
     The Prince, with his self from the other timeline, makes the law for all future princesses of Hyrule to be named Zelda.
@@ -146,15 +150,19 @@ B: {The Kingdom's First Legends}
 C: {The Minish Era}
 [New: "Rise of Ganon / Hero of Men"]
     Thief King Ganon, with the help of Veran, fuses with Demise's lingering essence from the Master Sword, damaging the sword.
-    The Hylians, driven out from Hyrule Castle, settle in the east near the Fortress of Winds.
+    The Hylians, driven out from Hyrule Castle, settle in the east just north of the Fortress of Winds.
     Ganon plagues the land with new monsters, made from prisoners of war.
-    The minish appear and help create a new sacred blade.
-    Ganon is badly wounded. Veran puts his soul in a boar before they flee.
+    The minish appear and help create a new sacred blade, infused with shards of Fierce Deity's sword.
+    Link and Ganon fight. Ganon is badly wounded. Veran puts his soul in a boar before they flee.
     The four elemental dragons are killed and mutated into monsters. The Hero of Men aids the heroes of the other groups in defeating them.
+    Faron's corpse becomes Morpha; the Hero of Parella helps defeat it with her spear.
+    Eldin's corpse becomes Volvagia; the Hero of Gorons crushes it with his hammer.
+    Lanayru's corpse becomes Onox; the Hero of Mogma undermines it with the mole mitts.
+    The corpse of Levias falls to Veran's shadow nightmares; the Hero of Kikwi's katana helps put it down.
     The four elements obtained from the dragon monsters are infused into the Picori Blade.
-    Veran helps the boar-ified Ganon transfer his soul into his own son, Ganondorf, birth seemingly for this very purpose.
+    Veran helps the boar-ified Ganon transfer his soul into his own son, Ganondorf, born seemingly for this very purpose.
     Ganon is defeated; Ganondorf is saved? Veran is wounded and runs away.
-    Veran transfers her own soul into an insect. Link turns minish-sized to to track her down and avenge Hyrule.
+    Veran transfers her own soul into an insect. Link turns minish-sized to track her down and avenge Hyrule.
     All remaining monsters are sealed in the Bound Chest using the Picori Blade and the Light Force: Zelda's latent Goddess heritage.
 [Old: "Minish Cap"]
 [New: "Minish Nightmare: The Simulation Incident"]
@@ -166,7 +174,7 @@ C: {The Minish Era}
     Either way, in the end, he gets attacked by a shadow and falls into a deep sleep...
 [New: "Minish Nightmare: The True Nightmare World"]
     Zelda enters the True Nightmare World to save Link, but gets captured herself in doing so.
-    Link meets Ezlo there, learning that the minish homeworld isn't as pleasant as the little guys deserve.
+    Awoken by Zelda's efforts, Link meets Ezlo in a dark castle, and learns that the minish homeworld isn't as pleasant as the little guys deserve.
     Link has a rematch against Simon's false hologram: Facade.
     Link and Ezlo fight the Nightmare Gods: the ghosts of Veran, Onox, Malladus, and Twinrova.
     They rescue four sirens, who play a song to renew the Whale Spirit's bones into new life, cleansing the realm in turn.
@@ -202,84 +210,86 @@ E: {OoT Temporal Maelstrom}
 [New: "Ocarina of Time Co-Op"]
     Link grows up in Castle Town with his mother, and is childhood friends with Zelda.
     Link and Zelda sneak thru the castle courtyard together.
-    Link goes on an adventure for some reason. (Chapter by Chapter, not free-roaming the world.)
+    Following in the footsteps of his father, Link becomes a knight and goes on an adventure. (Chapter by Chapter, not free-roaming the world.)
     Link and Saria enter the Great Deku Tree to defeat Gohma.
     Link and Darunia defeat the dodongos.
     Link and Ruto save Jabu Jabu from Barinade.
-    Ganondorf gets the Triforce of Power. Seven years do not pass though? Link is already old enough?
-    Link and Sheik traverse Dampe's grave.
-    Link and Saria defeat Veran in the Forest Temple.
-    Link and Darunia navigate the Fire Temple to deal with 
+    Ganondorf does not get the Triforce of Power; seven years do not pass; but Ganondorf still usurps the temples with his monster cronies.
+    Link and Sheik (Zelda) do a mission together. (Hyrule Field? Dampe's Grave?)
+    Link and Saria defeat (Veran? Agahnim?) in the Forest Temple.
+    Link and Darunia navigate the Fire Temple to deal with (Agahnim? Bellum?).
     Sheik helps Ruto escape the Ice Cavern.
-    Link and Ruto deal with Bellum in the Water Temple.
-    Impa (or the Composer Brothers) teaches Link the Song of Storms to enter the Well.
+    Link and Ruto deal with (Bellum? Veran?) in the Water Temple.
+    Impa or the Composer Brothers teach the Song of Storms to enter the Well, which Link and Sheik complete.
     Link and Sheik save Impa from the Nightmares in the Shadow Temple.
     Link and Nabooru clear each side of the Spirit Temple to defeat Onox.
     Each section of Ganon's Castle requires a different pairing of sages.
     Also: Phantom Ganon in the Forest Section, Twinrova in the Spirit Section, Volvagia in the Fire Section, Morpha in the Water Section.
-    Link and Sheik (Zelda?) fight Ganondorf.
+    Link and Zelda fight Ganondorf.
     Ganondorf flees to the past, and Link and Zelda follow.
-<Minor Time Rewind>
-[Parts of New: "Hyrulean Civil War"]
+    <Minor Time Rewind>
+    [Parts of New: "Hyrulean Civil War"]
     Ganondorf meets up with himself during the Hyrulean Civil War and changes history.
     Bongo Bongo and the Sheikah clash.
     One Ganondorf gets defeated. The other lives on to be the Ganondorf we know in the original "Ocarina of Time."
+    Link and Zelda return to their own time.
 [Old: "Ocarina of Time" - Young Link]
-[New: "Sheik and the Divine Eggs"]
-    Impa raises Zelda in a Hidden Village near Lake Hylia. After passing her Sheikah exam, Zelda is allowed to travel on her own as Sheik.
+[New: "Sheik and the Eggs of the Guardians"]
+    Impa raises Zelda in a Hidden Village near Lake Hylia. In the sixth year of Ganondorf's reign, after passing her Sheikah exam, Zelda is allowed to travel on her own as Sheik.
     Sheik answers a call for help from the Zoras: Jabu Jabu is sick again, and no one is able to help. Ruto is injured from trying herself.
-    Inside, Sheik defeats Bari-Demos, a plant-like version of Barinade. An egg appears after. Upon picking it up, Jabu Jabu's body violently dissolves.
-    Furious, Ruto banishes Sheik from Zora's Domain. Sheik is carrying the egg thru Hyrule Field when Ganondorf leaves the Castle. Sheik hides in Lon Lon Ranch.
+    Inside, Sheik finds Ruto's grapple hook, and defeats Bari-Demos, a plant-like version of Barinade. An egg appears after. Upon picking it up, Jabu Jabu's body violently dissolves (timed escape sequence).
+    Furious, Ruto banishes Sheik from Zora's Domain, and Sheik is cast out before she gets a chance to explain. Sheik is carrying the egg thru Hyrule Field when Ganondorf leaves the Castle. Sheik hides in Lon Lon Ranch.
     Thinking Sheik is a thief, Malon attacks Sheik. Talon intervenes, being a friend of Impa and knowing of her new apprentice.
     Sheik gives the egg to the Lakeside Laboratory Professor, and is sent to find the eggs of the other dead Guardians.
-    Sheik enters the Lost Woods, is helped thru by Saria, and enters the Dead Great Deku Tree. Defeating a fiery Gohma, she obtains the Great Deku Seed.
-    The Kokiri refuse to let Sheik leave with the Great Deku Seed, insisting it gets planted in the forest.
-    Sheik and Darunia's son Link help each other traverse Dodongo's Cavern, but he gets captured at the midboss point of the dungeon.
-    After defeating the Great Octorok boss, Sheik finds Link the Goron and the Great Dead Dodongo's egg. Darunia is grateful to Sheik, but wants nothing to do with the egg.
-    Impa intercepts Sheik on the way down the mountain, takes the egg, and says she's ready.
-    They enter the Royal Family Tomb, open a secret door behind the Sun's Song, and obtain the Goddess Harp.
-    Sheik and Impa sneak into Hyrule Castle, dodging Gerudo Guards, in search of something... (the King? the Harp is here instead?) They split up.
-    Sheik runs into Ganondorf. They fight. Ganondorf stops, laughs, and offers her a job.
+    Sheik enters the Lost Woods, is helped thru by Saria, and enters the Dead Great Deku Tree. She obtains bombs from a pair of stalfos. Defeating a fiery Gohma, she obtains the Great Deku Seed.
+    The Kokiri refuse to let Sheik leave with the Great Deku Seed, insisting it gets planted in the forest. Sheik watches the planting, and later explains to Impa who says it was the right thing to do.
+    Sheik and Darunia's son Link help each other traverse Dodongo's Cavern (him having much the same function as young Ruto), but he gets captured by lizalfos before the midboss of the dungeon: Big Octo (OoT).
+    After defeating the lava boss Great Octorok (WW) using the boomerang, Sheik finds Link the Goron safe with the Great Dead Dodongo's egg. Darunia is grateful to Sheik, but wants nothing to do with the egg.
+    Impa intercepts Sheik on the way down the mountain, takes the egg off her hands, and says she's ready.
+    They enter the Royal Family Tomb, open a secret door behind the Sun's Song, and obtain a special key.
+    Sheik and Impa sneak into Hyrule Castle, dodging Gerudo Guards, in search of the King and the Goddess Harp. They split up.
+    Sheik runs into Ganondorf in the throne room. They fight. Ganondorf stops, laughs, and offers her a job.
 [New: "Sheik and the Wind Mage"]
     Sheik clears Hyrule Field of monsters in Ganondorf's name. Ganondorf doesn't seem like a bad ruler... Some even prefer him to the old king...
     The poe sisters appear at the Four Sword Sanctuary in the northwest of Hyrule. They free Vaati from the blade and fly away together. Sheik picks up the Four Sword.
     The villains inhabit the Forest Temple, where the poe sisters get defeated, but Vaati escapes.
     Fear starts rising regarding the new villain, and Ganondorf uses the situation to portray himself as a strong protector.
-    Sheik tracks the Wind Mage to Zora's Domain, but she is still forbidden from entering, so she has to sneak her way thru.
+    Sheik tracks the Wind Mage to Zora's Domain, but she is still forbidden by Ruto from entering, so she has to sneak her way thru.
     Sheik finds a now-lucid Vaati in the Ice Cavern. He reminisces about the past, reaffirms his dark ambitions, and leaves Sheik fighting against a memory clone of his old self.
     Sheik tracks Vaati to the Fire Temple, where he seeks an ancient Gerudo artifact of great power.
-    She defeats a Phantom Knight guarding the relic, and Vaati snatches it and flies into the sky.
+    She defeats a Phantom Knight (PH) guarding the relic, and Vaati snatches it and flies into the sky.
     Sheik makes the Tower of Winds appear and climbs it to Vaati's Palace of Winds, where she witnesses him use the relic to become Bellum, losing his mind entirely.
     He gets defeeated and sealed in the Four Sword once more, and the sword gets returned to the Four Sword Sanctuary.
 [New: "Sheik and the Shadow Beast"]
     Sheik follows a rumor of Ganondorf doing evil deeds. Ganondorf claims it isn't him, but an evil phantom that took his form.
-    Sheik is sent to the Gerudo Fortress. The Gerudo require her to pass their Training Grounds before entering the Haunted Wastelend.
-    In the center of the desert, below the invisible poe guide, there is the secret entrance to the Tomb of Gerudo Kings. Within, Sheik finds and fights Phantom Ganon.
+    Sheik is sent to the Gerudo Fortress. The Gerudo require her to pass their Training Grounds before entering the Haunted Wastelend. There are other Hylians there wanting to join the Gerudo Tribe.
+    In the center of the desert, below the invisible poe guide, there is the secret entrance to the Tomb of Gerudo Kings. Within, Sheik finds and fights Phantom Ganon. (Item: myu land mines)
     Sheik returns to the Temple of Time, wondering if Ganondorf is the good king everyone things he is afterall.
-    A giant shadow beast suddenly emerges from the Door of Time, with a mute sheikah male hot in pursuit. Impa and the sheikah seem to know each other.
+    A giant shadow beast (TP) suddenly emerges from the Door of Time, with a mute sheikah male hot in pursuit. Impa and the sheikah seem to know each other.
     The shadow beast runs to Ganondorf, claiming him as its master, but Ganondorf disavows any association.
     The shadow beast flees to the Water Temple. Rauru, sensing something about the creature, insists Sheik train in the Temple of Light before going after it.
-    Sheik and the mysterious sheikah fight many monsters on the way there. The temple itself is full of poison water, and may turn upside down.
-    The creature's mask comes off, and it flips upside down, becoming Bongo Bongo. Upon defeat, it merely retreats to the Bottom of the Well.
+    Sheik and the mysterious sheikah fight many monsters on the way to the Water Temple, including a back-to-back fight in a canyon just before Lake Hylia. The temple itself is full of poison water.
+    The creature's round mask comes off, and it flips upside down, becoming Bongo Bongo. Upon defeat, it retreats to the Bottom of the Well.
     Impa and the mute sheikah enter the Well together, but Sheik is forbidden from following. They exit a while later, apparently victorious, but they seal the well just in case.
-    After the sheikah visitor returned to his own time, Sheik is approached by the Happy Mask Salesman with a request.
-    In return for his help throughtout her adventures, providing her with necessary masks, he asks to be guided to the depths of the Shadow Temple.
-    Sheik reluctantly accepts. She escorts him all the way to the Ferry, but instead of sinking at the end, it continues to sail into the darkness beyond...
-    At the end of the ride, they arrive at the Ancient Vault of Secrets, where after battling five bosses, she obtains for the salesman Majora's Mask. He vanishes soon after.
+    After the sheikah visitor returns to his own time, Sheik is approached by the Happy Mask Salesman with a request.
+    In return for his help throughtout her adventures, providing her with necessary masks (be sure to add), he asks to be guided to the depths of the Shadow Temple.
+    Sheik reluctantly accepts. She escorts him all the way to the Ferry, but instead of it sinking at the end, it continues to sail into the darkness beyond...
+    At the end of the ride, they arrive at the Ancient Vault of Secrets, where after battling five bosses, she obtains for the salesman Majora's Mask. He vanishes soon after. Impa might scold her harshly upon finding out.
 [New: "Sheik and the King of Evil"]
     Ganondorf's good-guy image starts to show cracks. Though he  wants to make Hyrule a utopia, he is pestered by Twinrova and other agents of darkness nonstop...
     ...and he starts making concessions. His policies make life needlessly harder, more dangerous, and shows favor to criminals rather than victims. Hylians start disappearing.
-    Sheik investigates the desert. The Gerudo have been acting strangely. Their forehead stones have a strange glint. People have been robbed more often lately.
+    Sheik investigates the desert. The Gerudo have been acting strangely. Their forehead stones have a strange glint. People have been robbed more often lately, and those who applied to become honorary Gerudo have gone missing.
     Investigating the desert again, Sheik finds the missing Hylians being brainwashed at the Pyramid of Power. She defeats Twinrova's general, Nabooru, to free them.
-    In the Spirit Temple she uncovers Twinrova's device that brainwashes Gerudo thru their forehead gems. She defeats a vision of the Goddess of the Sand before breaking it.
-    Now sure of Ganondorf's corruption, Sheik, as Zelda, joins with the Gorons to take back her throne.
+    In the Spirit Temple she uncovers Twinrova's device that directly controls Gerudo thru their forehead gems. She defeats a vision of the Goddess of the Sand in the great statue's chest crystal before breaking the device.
+    Now quite certain of Ganondorf's corruption, Sheik, as Zelda, joins with the Gorons to take back her throne.
     Ganondorf, giving in finally to frustration and evil, has Twinrova summon Morpha and Volvagia (Morpha as an ice dragon) to destroy the Marketplace.
     Before she can fight them, Zelda gets captured and imprisoned in Hyrule Castle's dungeon. If she didn't know her father's fate before, she does now.
     Stripped of sheikah tools, Zelda connects to her sage power and escapes the castle, getting her tools back and turning back into Sheik.
     She fights Volvagia on the slopes of Death Mountain, but fails to defeat it. Darunia says he'll handle it, and Sheik is sent to the Lost Woods.
     She helps Saria deal with Phantom Ganon in the Lost Woods, but once more must move on.
     Sheik rescues Ruto from Zora's Domain as it freezes over, being chased by Morpha all the way down the hidden Zora Waterway to Lake Hylia, where they fight head-on.
-    At the end, an exhausted Sheik witnesses the Gerudo flee Ganondorf's Hyrule, vowing to burn the bridge behind them, walks thru the ashes of the Marketplace...
+    At the end, an exhausted Sheik witnesses the Gerudo people flee Ganondorf's Hyrule, vowing to burn the bridge behind them.
+    Sheik, disheartened, walks thru the ashes of the Marketplace...
     ...and sees Ganondorf creating his new castle on the crater that was her own castle: a foe utterly impossible to defeat.
     In despair, Sheik returns to the Temple of Time.
     Then the Door of Time opens. Sheik hides herself, and sees the boy, now a man- the Hero of Time, emerge with the Master Sword.
@@ -289,18 +299,36 @@ E: {OoT Temporal Maelstrom}
 
 F: {The Age of the Great Flood}
 [New: "A Day Without Courage"]
-    When OoT Link could no longer return to this timeline, the Triforce of Courage was sent to Zelda, who had it broken and its pieces hidden.
-    A new Master Sword was forged by the OoT Sages: one powered by the prayers of the new Earth and Wind Sages.
-    When the Guardians Sheik saved as eggs grew up into Valoo and Jabun, the Gorons rejected Valoo, and Jabun called the Zoras unworthy, turning them back into humans.
-    Hundreds of years later, Ganondorf breaks free of the Realm of Evil.
-    People still believe the Hero of Time could appear anytime, any place, but are to be bitterly disappointed.
-    Fear of Ganondorf drives people mad. Some surrender to Ganondorf, hoping in vain for mercy. Others embrace death itself prematurely.
-    Many Gorons, unprotected by Valoo, offer to serve Ganondorf. He kills them and turns them into poe slaves, their leader becoming Jalhalla.
-    Ganondorf corners the former zoras at the Forsaken Fortress, where he decides to drown them. However, Valoo leaps in and saves them, turning them into Rito.
-    The Gerudo people deny their old king. For that, he wipes them out. However, after Molgera does his work, the King of the Gerudo breaks down in regret.
-    Zelda gains a following of various knights and warriors, but none of them can fill the shoes of the missing hero.
-    In the end, Ganondorf's power is sealed by the Master Sword, but since the Sages of the Master Sword are killed at the same time, the seal couldn't hold forever...
-    Those sent to survive the flood are those who hadn't surrendered to Ganondorf, yet survived the ordeal.
+    When OoT Link could no longer return to this timeline, the Triforce of Courage was sent to OoT Zelda, who had it broken and its pieces hidden to keep it from evil hands.
+    A sailor crew entrusted to transport a Triforce shard to a secret place betrayed that trust, intending to sell it for money, and killed the one objector. Upon opening the chest, they became cursed to sail until the rightful owner returns.
+    Since only the Hero could wield the old Master Sword, a new Master Sword was forged by the OoT Sages: one powered by the prayers of the new Earth and Wind Sages.
+    When the Guardians Sheik saved as eggs grew up into Valoo and Jabun, the Gorons stubbornly rejected Valoo, and Jabun called the Zoras neglectful and unworthy, turning them back into humans.
+    Hundreds of years later, the King of Hyrule directs a concert at Hyrule Castle with the Wind Waker baton, perhaps with the two sages performing.
+    Suddenly, marring the nostalgic sunset, Ganondorf breaks free of the Realm of Evil, filling the sky with a shroud of malice.
+    Many people still believe the Hero of Time could appear any time, any place, and so hope for his intervention, but are to be bitterly disappointed.
+    The Zelda at the time gains a following of various knights and warriors, but none of them can fill the shoes of the missing hero. No one can wield the new Master Sword, and no one even tries the old one for the danger of attempting it.
+    One soldier (Gonzo's ancestor) is a descendant of a Hero's bloodline, but finds himself too afraid at a crucial moment to live up to his ideals.
+    Another knight (Senza's ancestor) is of the noble Royal Jewel Knights, but it has been long since the sacred gems held any real power...
+    In a bout of cynicism, he complains about having to defend a useless royal family who only seems to draw trouble to themselves, but embarrassed at seeing that Zelda overheard, he crops his long hair short with an oath of renewed dedication.
+    The Blue Jewel Knight ends up fighting his three fellows, who joined Ganondorf when he gave them elemental powers such as their respective jewels once held. He ends up terribly wounded, but does not regret his steadfast loyalty.
+    The little ancestor of Niko tries to keep a cheerful attitude despite everything, though he remains traumatized by the memory of his dying childhood friend withering into a poe for his bitter hatred of the world and its unfairness...
+    A crowd of people gather against Ganondorf, but in him saying, "Am I not the King of Evil?" he turns half of them into moblins by forcibly manifesting the evil in their hearts. Chaos ensues, and Ganondorf watches as the city burns.
+    Fear of Ganondorf drives people mad. Some surrender to Ganondorf, hoping in vain for mercy. Others embrace death prematurely.
+    One group (of Gerudo, Zora-humans, and new Sheikah) near the Earth Temple starts a cult that worships death. Nudge's ancestor, a former-zora matron with a grappling hook, has to defeat the cult leader trio, now stalfos.
+    A Red Wizzrobe leads a cult obsessed with monsters and masks. Under the mask, the Red Wizzrobe may be Niko's monstrified friend, promoted from poe footsoldier to sorcerer general.
+    In terror of the King of Evil, the Gorons yet remain too proud/ashamed/afraid to return to Valoo, so a few flee to the hills, but sixteen request to join Ganondorf. He slays them and turns them into poe slaves, their leader becoming Jalhalla.
+    Ganondorf corners the former-zora tribe at the Forsaken Fortress, where he decides to drown them. However, Valoo leaps in and saves them, turning them into Rito, and they all fly away.
+    The former zora who betrayed his tribe to Ganondorf shows jealousy at their new winged form, so Ganondorf turns him into the Helmaroc King.
+    The Gerudo people deny their old king at the foot of his new tower. For that, he wipes them out by summoning Molgera. However, after all becomes silent in the desert, the King of the Gerudo breaks down in rageful regret.
+    Ganondorf rips Ganon's/Demise's ghost out of himself and traps it in a magic orb of blue and gold. The ancient demon declares he will always be its puppet; he says, "We'll see about that," and laughs.
+    Ganondorf swears a Dark Oath that Hyrule will be his, or no one's. Ganondorf's Tower erodes the landscape as it physically moves closer to Hyrule Castle...
+    Mako's ancestor Minister Potho secretly tries to rely on dark sheikah magic to defeat Ganondorf, but is defeated  by his own team for his warcrimes.
+    In the end, with a courageous sacrificial act by Gonzo's ancestor involving drawing the Master Sword (possibly the old one), Ganondorf's power is sealed by the new Master Sword.
+    At the same time, the zora sage is possessed by Jalhalla and jumps off the cliff outside the boss room; the kokiri sage is swallowed whole by Molgera while fighting its larvae; so the seal wouldn't hold forever, and the onslaught would resume...
+    Those sent to survive the oncoming flood are those who hadn't surrendered to Ganondorf, yet survived the ordeal.
+    Zelda and her band of knights board a ship made to serve as seat of government in the world after (though their taxes became known as theft). The King of Hyrule remains behind, swearing his own Oath to counter Ganondorf's, tying his own life to Hyrule.
+    The people of Zuko's ancestor are nearly destroyed in the flood for having stubbornly believed Ganondorf's lies (and having served as his spies, though perhaps unreliable ones), but by the King of Hyrule's intercession, are turned into the fishmen instead.
+    As the waves crash on shores weathered by many seasons, the King of Hyrule/Red Lions misses his daughter terribly...
 [Old: "Wind Waker"]
 [Old: "Phantom Hourglass"]
 [Old: "Spirit Tracks"]
@@ -357,7 +385,7 @@ G: {Travels of OoT Link & TP Link}
     After proving himself in battle, Impa takes him under her wing. They fight Gerudo and traitorous Sheikah, and eventually have a rematch against the corrupted sage.
     (Its facility may be Beneath the Well.) The sage turns into a giant shadow beast, and retreats thru the Door of Time in the Temple of Time. Link chases it alone.
     Arriving in the time of Ganondorf's rule, Link runs into Sheik and an older Impa. While Sheik trains in the Temple of Light, Link re-enters the dream world and obtains a Master Sword for his use there.
-    TP Link and Sheik track down the Phantom Shadow Beast to the Water Temple, and there force it to change to the classic Bongo Bongo form. It runs again, this time to the Well in Kakariko Village.
+    TP Link and Sheik track the Phantom Shadow Beast to the Water Temple, and there force it to change to the classic Bongo Bongo form. It runs again, this time to the Well in Kakariko Village.
     Link and Impa enter alone. With Impa pinning it down, Link enters its dream, searches thru its memories of when it was a sage, destroys Zant's phantom trace, and beats its inner darkness...
     ...only for it to be unsalvageable in the end. Impa and Link seal it in the well, and Link returns to his own time.
 <End of Timeline G>
@@ -369,7 +397,7 @@ H: {Unspecified Temporal Episode}
 <Major Time Rewind>
 H: {The Beginning: Null Sealed}
 [Old: "Hyrule Warriors: Age of Imprisonment"]
-[Old: "Hyrule Warriors: Age of Calamity"]
+[Old: "Hyrule Warriors: Age of Calamity"] (involves a time rewind event)
 [Old: "Breath of the Wild"]
 [Old: "Tears of the Kingdom"]
 [Old: "Echoes of Wisdom"]
