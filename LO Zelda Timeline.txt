@@ -395,13 +395,13 @@ H: {Unspecified Temporal Episode}
 <End of Episode H}
 
 <Major Time Rewind>
-H: {The Beginning: Null Sealed}
-[Old: "Hyrule Warriors: Age of Imprisonment"]
-[Old: "Hyrule Warriors: Age of Calamity"] (involves a time rewind event)
+I: {The Beginning: Null Sealed}
+[Old: "Hyrule Warriors: Age of Imprisonment"] (involves a time rewind event from TotK)
+[Old: "Hyrule Warriors: Age of Calamity"] (involves a time rewind event from BotW)
 [Old: "Breath of the Wild"]
 [Old: "Tears of the Kingdom"]
 [Old: "Echoes of Wisdom"]
-<End of Timeline H>
+<End of Timeline I>
 
 <End of List>
 
