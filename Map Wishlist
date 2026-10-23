@@ -1,73 +1,56 @@
-A list of some locations I had intended to make:
+<PURPOSE(rooms);(starting with)>
 
-Ocarina of Time:
-FOREST
-Changed "Lost Woods" {keeping the same base, but adding twice as many rooms and changing some connecting tunnels}
-Reskinned "Gnarled Root Ruins" {an overgrown dungeon based on Ikana Castle}
-FIRE
-New "Goron Training Grounds" {found across the lava pool in Goron City, this set of challenges is for those seeking to prove themselves as true goron warriors}
-New "Crater Access Tunnel" {a volcanic tunnel connecting Darunia's room to Death Mountain Crater}
-Reskinned "Brimstone Tower" {a lava dungeon based on Snowpeak Temple}
-Edited "Death Mountain Crater" {switching the doors to the fairy fountain and Darunia's room; ladders and platforms lead down and around the lava lake from the one to the other}
-WATER
-New "Hylia Ravine" {a rocky fence-ridden path between Hyrule Field and Lake Hylia}
-Reskinned "Darkpool Temple" {a shadowy dungeon based on Woodfall Temple}
-New "Hidden Village" {a Sheikah-hideout, built for times of trouble}
-New "Zora Waterway" {an underground path between Zora's Domain and Lake Hylia, passing under Lon Lon Ranch; includes a mysterious locked door...}
-New "Zora Lounge" {under Zora's domain, a cozy sort of place with a zora band}
-Reskinned "Submerged Monolith" {beneath Zora's Fountain, a water-filled version of Inverted Stone Tower Temple}
-SPIRIT
-New "Gorge Town" {a classic rough-&-tumble western town between Hyrule Field and Gerudo Valley}
-New "Rabbit Canyon" {a fortified area between Gerudo Valley and Gerudo Fortress}
-New "Bladetrap Path" {an underground tunnel system beneath the Haunted Wasteland}
-Reskinned "Rusty Megstructure" {a sand-filled version of Great Bay Temple}
-New "Tomb of Gerudo Kings" {a secret mausoleum buried under the Haunted Wasteland; designed after Zelda 2's Island Palace}
-New "Pyramid of Power" {an ancient structure hidden in the Haunted Wasteland}
-SHADOW
-New "Graveyard Path" {a semi-ominous trail thru the woods, where crows and poes and wolfos roam, and a mossy cabin sits in a shady secluded spot; a better spot to pass time for Dampe}
-New "Coffin Maker's Cabin" {a creepy shack full of coffins, hiding a dark secret...}
-Extended "Royal Family Tomb" {a hidden section of the Royal Family Tomb added behind the Sun's Song monument}
-LIGHT
-New "Inside Hyrule Castle" {entering thru the milk delivery door, passing thru kitchen and storage and dining hall and entrance hall, even the throne room and dungeon and the tower}
-New "Light Temple" {a place shaped like a pyramid with six doors: forest, fire, and water along the bottom; shadow and spirit in the middle; and light at the top}
-Changed "Ganon's Castle" {something unfamiliar and more challenging}
-OTHER
-New "Four Sword Sanctuary" {a secret grove to the west of Hyrule Field somewhere}
-New "Tower of Winds" {a tower to the sky}
-New "Palace of Winds" {a palace in the sky}
+----LOST WOODS PACKAGE----
+  Rearranged "Lost Woods" <LIMINAL(24?);(half complete)>
+  Reskinned "Gnarled Root Ruins (Ikana Castle)" <DUNGEON(11);(mesh)>
+  Edited "Sacred Forest Meadow" <LIMINAL(");(complete)>
 
-Majora's Mask:
-SWAMP
-Edited "Drained Swamp" {Cloak of Shadows}
-Changed "Woods of Mystery" {Cloak of Shadows}
-New "Temple of Weakness" {Cloak of Shadows}
-MOUNTAIN
-New "Goron Mines" {Deku Butler Game}
-New "Zubora's Palace" {Deku Butler Game}
-New "Snowdrift Ghost Town"  {Cloak of Shadows}
-New "Forgotten Foundation" {Cloak of Shadows}
-New "Temple of Folly" {Cloak of Shadows}
-New "Snowswept Woods" {Cloak of Shadows}
-Extended "Goron Graveyard" {Cloak of Shadows}
-New "Beneath the World" {Cloak of Shadows}
-OCEAN
-New "Marooner's Archipelago" {Deku Butler Game}
-New "Lost City of Stars" {Deku Butler Game}
-New "Temple of Fear" {Cloak of Shadows}
-Edited "Beaver Pond" {Cloak of Shadows}
-New "The Deep" {Cloak of Shadows}
-New "Temple of Ages" {Cloak of Shadows}
-CANYON
-Changed "Sakon's Hideout" {Deku Butler Game}
-Changed "Ikana Village" {Cloak of Shadows}
-Edited "Ikana Trail" {Cloak of Shadows}
-Edited "Ikana Castle" {Cloak of Shadows}
-New "Temple of Cruelty/Agony" {Cloak of Shadows}
-New "Temple of Souls" {Cloak of Shadows}
-TOWN
-Changed"Stolen Clock Town" {Deku Butler Game}
-Edited "Darkened Clock Town" {Cloak of Shadows}
-Edited "Nexus of Magic" {Cloak of Shadows}
-OTHER
-New "Alien Outpost"  {Cloak of Shadows}
-New "Celestial Lighthouse" {Cloak of Shadows}
+----GORON CITY PACKAGE----
+  Edited "Goron City" <TOWN(");(complete)> (+ tunnel from storage to Darunia's room + nicer Goron Training Grounds entrance)
+  NEW "Goron Training Grounds" <DUNGEON(11);(half)>
+  NEW "Crater Access Tunnel" <LIMINAL(4);(idea)>
+  Reskinned "Brimstone Tower (Snowhead Temple)" <DUNGEON(15);(mesh)>
+  Rearranged "Death Mountain Crater" <LIMINAL(");(complete)>
+
+----LAKE HYLIA PACKAGE----
+  NEW "Hylia Ravine" <LIMINAL(3);(idea)> (horse fence path + side battlefield + cave to Darkpool Temple)
+  Reskinned "Darkpool Temple (Woodfall Temple)" <DUNGEON(12);(mesh)>
+  Edited "Lake Hylia" <DESTINATION(");(complete)>
+  NEW "Hidden Village" <TOWN(3);(idea)>
+
+----ZORA'S DOMAIN PACKAGE----
+  NEW "Zora Waterway" <LIMINAL(4);(idea)> (Lon Lon Ranch grotto + cave to Lake Hylia + cave to Zora's Domain + Unicorn Fountain)
+  NEW "Zora Lounge" <TOWN(~3);(idea)> (Domain grotto & bottom entrances + music stage & bar + balcony view of Zora Waterway & side entrance)
+  Edited "Zora Fountain" <DESTINATION(");(complete)>
+  Reskinned "Submerged Monolith (Inverted Stone Tower)" <DUNGEON(14);(mesh)>
+
+----KAKARIKO GRAVEYARD PACKAGE----
+  NEW "Graveyard Path" <LIMINAL(5);(half)> (shortcut section + Nice House + woods + gorge + flowers+ Coffin Maker's Cabin)
+  NEW "Coffin Maker's Cabin" <DUNGEON(5);(idea)> (main room + bathroom + coffin making room + secret basement + ritual cave)
+  NEW "Inner Royal Family Tomb" <DUNGEON(7?);(idea)>
+  Changed "Dampe's Grave" <DUNGEON("?);(complete)>
+  Edited "Bottom of the Well" <DUNGEON(");(textured scene)> (+ secret entrance to Shadow Temple)
+  Rearranged "Shadow Temple" <DUNGEON(~");(textured scene)>
+
+----GERUDO VALLEY PACKAGE----
+  NEW "Gorge Town" <TOWN(~6);(idea)> (curved street + t-street + mayor + saloon + bombchus + shady shop)
+  NEW "Rabbit Canyon" <LIMINAL(1);(half)>
+  Edited "Haunted Wasteland" <LIMINAL(");(complete)> (+ entrances to Bladetrap Path & Tomb of Gerudo Kings)
+  NEW "Bladetrap Path" (south to north path + Rusty Megastructure cave + carpet merchant) <LIMINAL(??);(idea)>
+  Reskinned "Rusty Megstructure (Great Bay Temple)" <DUNGEON(~15);(mesh)>
+  NEW "Tomb of Gerudo Kings" <DUNGEON(~15);(idea)>
+
+----GREATER STORY PACKAGE----
+  NEW "Inside Hyrule Castle" <DUNGEON/TOWN(20?);(idea)> (entrance + throne + dining + kitchen + cellar + dungeon + bedrooms + etc)
+  NEW "Light Temple" <DUNGEON(~14);(idea)>
+  Changed "Ganon's Castle" <DUNGEON(~22);(half complete)>
+
+----FOUR SWORDS ADVENTURES PACKAGE----
+  Edited "Hyrule Field" <LIMINAL(");(complete)>
+  NEW "Four Sword Sanctuary" <DESTINATION(2?);(idea)>
+  NEW "Tower of Winds" <DUNGEON(??);(idea)>
+  NEW "Palace of Winds" <DUNGEON(??);(idea)>
+  NEW "Temple of Darkness (Forest Temple?)" <DUNGEON(??);(idea)>
+  NEW "Pyramid of Doubt" <DUNGEON(??);(idea)>
+
+End
